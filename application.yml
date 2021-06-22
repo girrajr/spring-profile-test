@@ -9,6 +9,6 @@ eureka:
       
       
 property-test:
-     value: hello Girraj
+     value: hello 
      des: test1
 
