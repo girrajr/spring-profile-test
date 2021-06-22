@@ -10,5 +10,5 @@ eureka:
       
 property-test:
      value: hello 
-     des: test1
+     des: test
 
