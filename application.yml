@@ -1,2 +1,3 @@
-property-test.vale=hello
-property-test.des=test
+property-test:
+     value: hello
+     des: test
