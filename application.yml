@@ -6,3 +6,9 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://localhost:8763/eureka/
+      
+      
+property-test:
+     value: hello1
+     des: test
+
